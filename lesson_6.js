@@ -54,7 +54,6 @@
                     confirm('отмена');
                 } 
 
-                
                 if (typeof num1 === 'string') {
                     confirm('введите число!');
                     return start();
